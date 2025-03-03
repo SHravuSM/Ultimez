@@ -1,10 +1,11 @@
 This is the Logic Code :-
 
-![Image](https://github.com/user-attachments/assets/6a3a70aa-bee5-4333-9837-fc82322fc1d0)
+![Image](https://github.com/user-attachments/assets/d769a724-ad7d-47c4-96b1-f278401352a9)
+
 
 
 
 
 This is the Output :-
 
-![Image](https://github.com/user-attachments/assets/026c2ba8-97fb-4cb7-a22f-e42410c4d348)
+![Image](https://github.com/user-attachments/assets/389c93f4-17b3-4257-8737-5d8037ce56e8)
